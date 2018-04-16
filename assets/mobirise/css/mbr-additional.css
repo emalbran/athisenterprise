@@ -42,10 +42,10 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 2.4rem;
+  font-size: 2.2rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3.84rem;
+  font-size: 3.52rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.92rem;
-    font-size: calc( 1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.76rem;
+    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1861,7 +1861,7 @@ body {
 .cid-qPdsvG4X7P {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/athis-3-2000x1087.png");
+  background-image: url("../../../assets/images/background-6-2000x1087.png");
 }
 .cid-qPdsvG4X7P .mbr-text {
   color: #232323;
@@ -1876,10 +1876,52 @@ body {
   font-size: 96px;
   color: #149dcc;
 }
-.cid-qPdK8Z53ar {
+.cid-qPfZrYFeYZ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #58b2c9;
+}
+.cid-qPfZrYFeYZ .mbr-text {
+  color: #232323;
+}
+.cid-qPfZrYFeYZ h4 {
+  text-align: center;
+}
+.cid-qPfZrYFeYZ p {
+  text-align: center;
+}
+.cid-qPfZrYFeYZ .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-qPfSJ2sHEC {
   padding-top: 0px;
   padding-bottom: 30px;
   background-color: #58b2c9;
+}
+.cid-qPfNEwVIY7 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/background-7-2000x1087.png");
+}
+@media (min-width: 992px) {
+  .cid-qPfNEwVIY7 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qPfNEwVIY7 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qPfNEwVIY7 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qPfNEwVIY7 .mbr-text,
+.cid-qPfNEwVIY7 .mbr-section-btn {
+  color: #232323;
 }
 .cid-qPdDkMuWfV {
   padding-top: 30px;
