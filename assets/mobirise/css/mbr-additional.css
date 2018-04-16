@@ -1770,135 +1770,85 @@ body {
 .cid-qPdh8LXeCJ .mbr-section-btn {
   color: #232323;
 }
-.cid-qPdj02WMEG {
+.cid-qPeQsj66km {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-1576x1080.jpg");
+}
+.cid-qPeQsj66km .nav-tabs .nav-item.open .nav-link:focus,
+.cid-qPeQsj66km .nav-tabs .nav-link.active:focus {
+  outline: none;
+}
+.cid-qPeQsj66km .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-qPeQsj66km .nav-tabs .nav-item {
+  padding: .5rem;
+}
+.cid-qPeQsj66km .nav-tabs .nav-link {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 500;
+  border: 1px solid #ffffff;
+  transition: all .5s;
+}
+.cid-qPeQsj66km .nav-tabs .nav-link:hover {
+  cursor: pointer;
+  background-color: #149dcc;
+}
+.cid-qPeQsj66km .nav-tabs .nav-link.active {
+  font-weight: 500;
+  color: #ffffff;
+  font-style: normal;
+  background-color: #149dcc;
+  border-color: #149dcc;
+}
+.cid-qPeQsj66km .nav-tabs .nav-link.active:hover {
+  background-color: #149dcc;
+}
+.cid-qPeQsj66km p {
+  color: #ffffff;
+}
+.cid-qPeQsj66km .mbr-text {
+  text-align: center;
+}
+.cid-qPeQsj66km P {
+  color: #ffffff;
+}
+.cid-qPfCiRXtyX {
   padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-qPdj02WMEG .mbr-section-subtitle {
-  color: #55b4d4;
+.cid-qPfCiRXtyX H2 {
+  color: #232323;
 }
-.cid-qPdj02WMEG H2 {
-  color: #f1b659;
-  text-align: center;
+.cid-qPfCiRXtyX .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-qPdqOZJR2t {
-  padding-top: 15px;
+.cid-qPfCTSzbAD {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-qPdqOZJR2t .mbr-figure {
-    padding-right: 4rem;
-  }
+.cid-qPfCTSzbAD h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
 }
-@media (max-width: 991px) {
-  .cid-qPdqOZJR2t .mbr-figure {
-    padding-bottom: 3rem;
-  }
+.cid-qPfCTSzbAD p {
+  color: #767676;
+  text-align: left;
 }
-@media (max-width: 767px) {
-  .cid-qPdqOZJR2t .mbr-text {
-    text-align: center;
-  }
+.cid-qPfCTSzbAD .card-box {
+  padding-top: 2rem;
 }
-.cid-qPdqOZJR2t H1 {
-  color: #c1c1c1;
-}
-.cid-qPdqOZJR2t .mbr-text,
-.cid-qPdqOZJR2t .mbr-section-btn {
-  color: #232323;
-}
-.cid-qPdrrMUnqj {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qPdrrMUnqj .media-container-row {
-  flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-qPdrrMUnqj .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qPdrrMUnqj .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qPdrrMUnqj .mbr-text {
-    text-align: center;
-  }
-}
-.cid-qPdrrMUnqj H1 {
-  color: #c1c1c1;
-}
-.cid-qPdrrMUnqj .mbr-text,
-.cid-qPdrrMUnqj .mbr-section-btn {
-  color: #232323;
-}
-.cid-qPdrBRDjj1 {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-qPdrBRDjj1 .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qPdrBRDjj1 .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qPdrBRDjj1 .mbr-text {
-    text-align: center;
-  }
-}
-.cid-qPdrBRDjj1 H1 {
-  color: #c1c1c1;
-}
-.cid-qPdrBRDjj1 .mbr-text,
-.cid-qPdrBRDjj1 .mbr-section-btn {
-  color: #232323;
-}
-.cid-qPdrkhgi2J {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qPdrkhgi2J .media-container-row {
-  flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-qPdrkhgi2J .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qPdrkhgi2J .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qPdrkhgi2J .mbr-text {
-    text-align: center;
-  }
-}
-.cid-qPdrkhgi2J H1 {
-  color: #c1c1c1;
-}
-.cid-qPdrkhgi2J .mbr-text,
-.cid-qPdrkhgi2J .mbr-section-btn {
-  color: #232323;
+.cid-qPfCTSzbAD .card-wrapper {
+  height: 100%;
 }
 .cid-qPdEBTeJYO {
   padding-top: 30px;
